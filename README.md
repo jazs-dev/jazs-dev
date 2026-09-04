@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jas 👋
 
-<!--
-**jazs-dev/jazs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical Technologies undergraduate student.
 
-Here are some ideas to get you started:
+🧠 Interested in:
+- Neurotechnology
+- Neuroscience
+- Neurological signal processing
+- Biomedical signal analysis
+- Artificial Intelligence
+- Machine Learning
+- Computational Intelligence
+- Bioengineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Currently working on:
+- EEG and neurological signal processing
+- Feature extraction from biomedical signals
+- Neurotechnology projects
+- Scientific research and academic projects
+
+💻 Tools and technologies:
+- Python
+- MATLAB
+- Linux
+- Git & GitHub
+
+📚 Currently learning:
+- Digital Signal Processing
+- EEG/ERP analysis
+- Biomedical instrumentation
+- Machine Learning
+- Computational methods for biomedical applications
+
+🚀 Long-term goal:
+Develop computational and neurotechnology solutions that contribute to biomedical research and healthcare.
